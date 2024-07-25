@@ -1,4 +1,6 @@
-Hi, I'm Fernando Nuno Vieira, an AI enthusiast with a rich background in airport operations management. Over the years at Faro Airport, I honed my skills in overseeing flight coordination, ground handling, and customer services, ensuring seamless and efficient operations. My experience in this high-stakes environment taught me the importance of precision, quick decision-making, and effective communication.
+Hi, I'm Fernando Nuno Vieira, an AI enthusiast with a rich background in airport operations management. 
+
+Over the years at Faro Airport, I honed my skills in overseeing flight coordination, ground handling, and customer services, ensuring seamless and efficient operations. My experience in this high-stakes environment taught me the importance of precision, quick decision-making, and effective communication.
 
 Driven by a passion for AI and continuous learning, I transitioned into the tech world, eager to explore the transformative potential of artificial intelligence. I recently completed an intensive AI Engineering bootcamp, where I developed expertise in AI Engineering, Deep Learning, Natural Language Processing (NLP), Computer Vision, and more. This rigorous training equipped me with the technical knowledge and hands-on experience necessary to excel in the rapidly evolving field of AI.
 
